@@ -1,1 +1,3 @@
 - TODO LIST -
+
+* Use Wunderlist, Trello or something along those lines to keep a better formed todo list, after finishing the story.
