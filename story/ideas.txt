@@ -8,3 +8,10 @@ This file should contain ideas about the story, in this format;
 - The map has hexagonal tiles.
 - In the map there are forests that have goods in them but also dangerous creatures.
 - 
+
+
+- The player plays his character which is the commander of his nation.
+- The player controls his nation through some hierarchy, there are heads for every profession.
+- The map shows units with their profession types, and also their current work. It will also display their amount.
+    For example, to show a fighting crew, it will display their weapon, with a fighting animation.
+    Or for a fighter horsemen crew that is lurking around, it will just show a running horse animation.
