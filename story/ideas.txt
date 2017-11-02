@@ -3,3 +3,8 @@ This file should contain ideas about the story, in this format;
 
 ###
 
+- Dialogues are text-based.
+- We need a (procedurally generated) map.
+- The map has hexagonal tiles.
+- In the map there are forests that have goods in them but also dangerous creatures.
+- 
