@@ -19,4 +19,3 @@ This file should contain ideas about the story, in this format;
 - You will start the game with a small crew
 - There are dangerous creatures and kingdoms
 - To survive at night you need to setup a contemporary camp
-- 
