@@ -1,18 +1,3 @@
 This file should contain the story in text form.
 
 ###
-
-DRAFT_1
-
-Plot Summary
-
-- You are a leader trying to survive in a brutal world. [Just to survive might not be a good enough motivation.]
-- There is no main quest other than to survive. [There can be a main quest but it can also be ignorable]
-- You have to build an army and feed them.
-- Your actions will make you a barbarian or a lord. (mesela :D)
-- If you can not feed them they will turn against you.
-- The choices you are going to make will affect your reputation.
-- You can acquire people by looting a village (of some sort) or find one idle person
-
-
-You will start with some recources and a small crew. 
