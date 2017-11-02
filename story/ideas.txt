@@ -3,8 +3,20 @@ This file should contain ideas about the story, in this format;
 
 ###
 
+
+- Survival
+- Single Player
+- 2.5D 
+- Real time strategy
+- Campaign Mode
+- The map has hexagonal tiles.
+
 - Dialogues are text-based.
 - We need a (procedurally generated) map.
-- The map has hexagonal tiles.
 - In the map there are forests that have goods in them but also dangerous creatures.
+- You are a commander and manager
+- The map will be foggy at first
+- You will start the game with a small crew
+- There are dangerous creatures and kingdoms
+- To survive at night you need to setup a contemporary camp
 - 
