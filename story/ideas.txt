@@ -21,8 +21,6 @@ This file should contain ideas about the story, in this format;
 - There are dangerous creatures and kingdoms
 - To survive at night you need to setup a contemporary camp
 - 
-=======
-- 
 
 
 - The player plays his character which is the commander of his nation.
@@ -30,4 +28,3 @@ This file should contain ideas about the story, in this format;
 - The map shows units with their profession types, and also their current work. It will also display their amount.
     For example, to show a fighting crew, it will display their weapon, with a fighting animation.
     Or for a fighter horsemen crew that is lurking around, it will just show a running horse animation.
->>>>>>> 030569af781a35e24c404be03c22b3adafbc0e89
